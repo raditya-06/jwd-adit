@@ -1,0 +1,13 @@
+body{
+    background-image: url(pattern_2.jpg);
+    background-size: cover;
+}
+h1{
+    color: rgb(20, 16, 11);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    color: rgb(20, 4, 4);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
